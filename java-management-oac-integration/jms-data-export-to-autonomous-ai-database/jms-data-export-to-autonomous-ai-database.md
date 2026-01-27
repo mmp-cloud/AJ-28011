@@ -112,7 +112,7 @@ In this lab, you will configure Java Management Service (JMS) on Oracle Cloud In
 1. Go to your Autonomous AI Database instance page. Click **Database Actions** > **SQL** to access the SQL Worksheet.
    ![Launch SQL worksheet from Database Actions](./images/database-actions-sql.png)
 2. Connect using the **[database_user]** account, where `[database_user]` is the username of the database user previously created.
-3. Open the Autonomous Database load pipeline script you downloaded in **Integrating Oracle Analytics Cloud with Java Management Service**, on the last step of [Task 4](?lab=jms-fleet-data-to-object-storage#Task4:ConfigureDataExportforyourfleet): **Configure Data Export for your fleet**.
+3. Open the Autonomous Database load pipeline script you downloaded in **Integrate Oracle Analytics Cloud with Java Management Service**, on the last step of [Task 4](?lab=jms-fleet-data-to-object-storage#Task4:ConfigureDataExportforyourfleet): **Configure Data Export for your fleet**.
 4. Copy the script onto the SQL worksheet and execute it.
    ![Configure jms data export to autonomous ai database](./images/configure-jms-data-export-to-autonomous-ai-database.png)
 

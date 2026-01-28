@@ -54,7 +54,7 @@ In this lab, you will configure Java Management Service (JMS) on Oracle Cloud In
      * **Graph**: checked if you want graph features
      * **OML**: for Oracle Machine Learning
      * **REST, GraphQL, MongoDB API, Web access**: check as needed
-     ![User details example](./images/create-database-user-details.png)
+   ![User details example](./images/create-database-user-details.png)
 4. Click **Create User**.
    ![User details save](./images/create-database-user-details-save.png)
 5. Confirm your user appears in the **User Management** listing.
@@ -91,9 +91,8 @@ In this lab, you will configure Java Management Service (JMS) on Oracle Cloud In
     * **Name**: Type a concise, memorable policy name (e.g., `jms_export`)
     * **Description**: Clearly state the policy's intent, such as:  `Policy required for JMS Fleets to export data to object storage`
     * **Compartment**: Pick the same compartment where your database and export bucket reside
-    ![Enter Policy Info](../common/images/create-policy-step1.png)
 3. Click **Show Manual Editor**.
-   ![Show Manual Editor screen](../common/images/create-policy-step1.png)
+   ![Enter Policy Info](../common/images/create-policy-step1.png)
 4. Copy and paste the following policy (edit placeholders accordingly):
 
    ```text
@@ -103,7 +102,6 @@ In this lab, you will configure Java Management Service (JMS) on Oracle Cloud In
     ```
    > Replace `[compartment_name]` which the compartment name where is the bucket where configure the JMS data exports and `[ocid_autonomous_ai_database]` with the ocid of the autonomous AI database previously created.
 
-   ![Policy Details](./images/create-policy-details.png)
 5. Click **Create**.
    ![Policy Details](./images/create-policy-details-save.png)
 

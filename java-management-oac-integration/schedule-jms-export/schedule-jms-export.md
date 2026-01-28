@@ -22,7 +22,7 @@ In this lab, you will schedule the Java Management Service (JMS) export process 
 1. On the OAC home page, click page menu in the upper left side.
 2. Select **Data**.
    ![Import template menu](../common/images/analytics-cloud-config-data-connection.png)
-3. Over the imported connection, on the right side, click actions menu and click **New Schedule**.
+3. Over the imported dataset, on the right side, click actions menu and click **New Schedule**.
    ![Select Autonomous AI Database Connection](./images/analytics-cloud-data-connection-new-schedule.png)
 4. Specify schedule details to run dataset:
    * **Name**

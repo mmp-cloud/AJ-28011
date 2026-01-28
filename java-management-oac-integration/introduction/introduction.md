@@ -16,7 +16,7 @@ This workshop is a follow up workshop to the [Manage Java Runtimes, Applications
 
 This workshop guides you through connecting JMS to Oracle Analytics Cloud, exporting Java inventory and usage data, and building real-time dashboards with data from multiple regions.
 
-*Estimated Time*: 90 minutes
+*Estimated Workshop Time:* 90 minutes
 
 ### Objectives
 

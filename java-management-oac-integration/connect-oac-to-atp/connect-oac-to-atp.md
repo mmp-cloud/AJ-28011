@@ -66,7 +66,7 @@ In this lab, you will configure Oracle Analytics Cloud (OAC) to connect to your 
 6. On the left panel click **History**. The Status could be **In Queue** or **Running**. 
    ![Dataset close reload_data](images/analytics-cloud-dataset-reload-data-inqueue.png)
 7. Wait until the execution ends and the status is **Completed**.
-   ![Dataset close reload_data](images/analytics-cloud-dataset-reload-data-completed.png)
+   ![Dataset close reload_data](images/analytics-cloud-dataset-reload-data-complete.png)
 
 ## Next Steps
 
